@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MajidBashir
 - 👀 I’m interested in Learning and Earning
-- 🌱 I’m currently learning SwiftUI
+- 🌱 I’m currently learning SwiftUI + Flutter
 - 💞️ I’m looking to collaborate on OpenSource Projects,
 - 📫 How to reach me ?? email me at majidbashir@icloud.com
 
