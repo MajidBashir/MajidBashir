@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MajidBashir
+- 👋 Hi, Welcome here
 - 👀 I’m interested in Learning and Earning
 - 🌱 I’m currently learning SwiftUI + Flutter
 - 💞️ I’m looking to collaborate on OpenSource Projects,
